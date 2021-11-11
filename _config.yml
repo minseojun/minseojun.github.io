@@ -102,7 +102,7 @@ analytics:
 # Site Author
 author:
   name             : "민서전"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : # path of avatar image, e.g. "/assets/images/IMG_6916.jpg"
   bio              : "And in the end the love you take is equal to the love you make"
   location         : "대한민국, 서울"
   email            : fatsnowman0728@gmail.com
