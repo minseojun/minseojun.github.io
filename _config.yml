@@ -25,7 +25,7 @@ url                      : "https://minseojun.github.io" # the base hostname & p
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "minseojun/minseojun.github.io" # minseojun/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+logo                     : "/assets/images/파워퍼프 알로하.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -102,7 +102,7 @@ analytics:
 # Site Author
 author:
   name             : "민서전"
-  avatar           : # path of avatar image, e.g. "/assets/images/IMG_6916.jpg"
+  avatar           : "/assets/images/IMG_6916.jpg"
   bio              : "And in the end the love you take is equal to the love you make"
   location         : "대한민국, 서울"
   email            : fatsnowman0728@gmail.com
